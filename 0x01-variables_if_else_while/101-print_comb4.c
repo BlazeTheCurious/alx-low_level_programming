@@ -32,7 +32,7 @@ break;
 }
 putchar(',');
 putchar(' ');
-}	
+}
 g++;
 }
 i++;
